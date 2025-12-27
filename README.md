@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# 💫 About Me: DevOps fresher | AWS • Docker • Jenkins • Ansible • Kubernetes | Linux enthusiast | Building CI/CD pipelines & cloud projects | Always learning 🚀
 🔭 I’m currently looking for job <br>👯 I’m done with devops certification<br>🤝 <br>🌱 I’m currently python<br>
 
 
