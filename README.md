@@ -1,5 +1,5 @@
 ##KB Space ✨
-##💫  DevOps fresher | AWS • Docker • Jenkins • Ansible • Kubernetes | Linux enthusiast | Building CI/CD pipelines & cloud projects | Always learning 🚀
+#💫  DevOps fresher | AWS • Docker • Jenkins • Ansible • Kubernetes | Linux enthusiast | Building CI/CD pipelines & cloud projects | Always learning 🚀
 🔭 I’m currently looking for job <br>👯 I’m done with devops certification<br>🌱 I’m currently python<br>
 
 
